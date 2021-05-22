@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+// import React, { useState } from 'react';
 import FilterHeading from '../FilterHeading/FilterHeading';
 // import { createClient } from 'pexels';
 import { createApi } from 'unsplash-js';
